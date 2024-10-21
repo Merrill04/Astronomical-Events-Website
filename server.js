@@ -16,7 +16,7 @@ const pool = new Pool({
     user: 'postgres',
     host: 'localhost',
     database: 'astronomical_events',
-    password: '041004',
+    password: 'Your Postgres Sql Password',
     port: 5432
 });
 
